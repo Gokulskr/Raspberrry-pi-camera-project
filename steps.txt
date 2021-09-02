@@ -1,0 +1,7 @@
+hotspot :
+	ssid : raspberry
+	password : P@ssw0rd
+
+Raspberry:
+	username : pi
+	password : raspberry
